@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6097c97b-8c85-48c4-b037-24a199655d43" name="Default Changelist" comment="" />
+    <list default="true" id="6097c97b-8c85-48c4-b037-24a199655d43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -39,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="481" />
-    <option name="y" value="61" />
+    <option name="x" value="390" />
+    <option name="y" value="49" />
     <option name="width" value="905" />
     <option name="height" value="763" />
   </component>
@@ -93,16 +95,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594548154857</updated>
-      <workItem from="1594548156380" duration="504000" />
+      <workItem from="1594548156380" duration="1788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="504000" />
+    <option name="totallyTimeSpent" value="1788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="481" y="61" width="905" height="763" extended-state="0" />
-    <editor active="true" />
+    <frame x="390" y="49" width="905" height="763" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970414" />
@@ -110,7 +111,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3296355" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.503962" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -131,8 +132,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
